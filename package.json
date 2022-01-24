@@ -12,5 +12,9 @@
     "nodemon": "^2.0.15",
     "pug": "^3.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeiranBrown1301/spotify-app-workshop"
+  }
 }
